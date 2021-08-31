@@ -936,13 +936,13 @@ else if (config.WORKTYPE == 'public') {
                     .setFrame('TPE1', [arama[0].author.name])
                     .setFrame('APIC', {
                         type: 3,
-                       reply = await message.client.sendMessage(message.jid,config.SONGU,MessageType.text);
+                       reply await message.client.sendMessage(message.jid,config.SONGU,MessageType.text);
 
                 await message.client.sendMessage(message.jid,Buffer.from(writer.arrayBuffer), MessageType.audio, {mimetype: Mimetype.mp4Audio,contextInfo: { forwardingScore: 2, isForwarded: true }, quoted: message.data, ptt: false});
                         description: arama[0].description
                     });
                 writer.addTag();
-reply = await message.client.sendMessage(message.jid,config.SONGU,MessageType.text);
+reply await message.client.sendMessage(message.jid,config.SONGD,MessageType.text);
 
                 await message.client.sendMessage(message.jid,Buffer.from(writer.arrayBuffer), MessageType.audio, {mimetype: Mimetype.mp4Audio,contextInfo: { forwardingScore: 2, isForwarded: true }, quoted: message.data, ptt: false});
    M

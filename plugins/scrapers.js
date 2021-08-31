@@ -936,7 +936,7 @@ else if (config.WORKTYPE == 'public') {
                     .setFrame('TPE1', [arama[0].author.name])
                     .setFrame('APIC', {
                         type: 3,
-                       reply = await message.client.sendMessage(message.jid,fs.readFileSync('./' + title + '.jpg'),MessageType.image,{ caption: '*» PLAY MUSIC «*\n\n*» Title* : '+ title +'\n*» Ext* : MP3 type Document\n\n*_Please wait for the media file to be sent it may take a few minutes_*' });
+                       reply = await message.client.sendMessage(message.jid,fs.readFileSync('./' + title + '.jpg'), MessageType.image, { caption: '*» PLAY SONG «*\n\n*» Title* : '+ title +'\n*» Ext* : MP3\n\n*_Please wait for the media file to be sent it may take a few minutes_*' });
                         description: arama[0].description
                     });
                 writer.addTag();

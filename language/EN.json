@@ -28,32 +28,32 @@
             "WARN": "Get plugins only from t.me/remasterplugin channel."
         },
         "admin": {
-            "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*I am not admin in this group!*",
-            "BANNED": "kicked out of the group!",
-            "GIVE_ME_USER": "*Give me a user!*",
-            "ADD_DESC": "Adds someone to the group.",
-            "ADDED": "added to the group!",
-            "ALREADY_PROMOTED": "```How can I make someone admin who is already admin?```",
+            "BAN_DESC": "لطرد شخص ما من المجموعة... يرجى الرد على رسالتة أو وضع علامه منشن للشخص ... لاستخدام الأمر.",
+            "IM_NOT_ADMIN": "*عذرا بوت ليس ادمن في هذه المجموعة!*",
+            "BANNED": "طرد من المجموعة",
+            "GIVE_ME_USER": "*اعطني مستخدم او منشن على مستخدم!*",
+            "ADD_DESC": "إضافة عضو جديد الى المجموعة",
+            "ADDED": "تم إضافة عضو جديد الى المجموعة!",
+            "ALREADY_PROMOTED": "```كيف يمكنك جعل مسؤول في المجموعة؟```",
             "PLKADMIN": ".report you are not admin \n\n 🇩​🇴​🇳​🇹​ 🇹​🇷​🇾​ 🇦​🇬​🇦​🇮​🇳​, 🇮​🇫​ 🇾​🇴​🇺​ 🇹​🇷​🇾​ 🇾​🇴​🇺​ 🇼​🇮​🇱​🇱​ 🇧​🇪​ 🇷​🇪​🇲​🇴​🇻​🇪​🇩​ 🇧​🇾​ 🇦​🇩​🇲​🇮​🇳​🇸​",
-            "PROMOTED": "```, admin role was given!```",
-            "PROMOTE_DESC": "Makes any person an admin.",
-            "DEMOTE_DESC": "Takes the authority of any admin.",
-            "ALREADY_NOT_ADMIN": "```How can I make someone admin who is already admin?```",
-            "DEMOTED": "```, has been demoted!```",
-            "MUTE_DESC": "Mute the group chat. Only the admins can send a message.\n⌨️ Example: .mute & .mute 5m etc",
-            "MUTED": "```Group chat muted!```",
-            "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.",
-            "UNMUTED": "```The group chat has unmuted!```",
-            "INVITE_DESC": "Provides the group's invitation link.",
-            "INVITE": "```Invitation link: ```"
+            "PROMOTED": "```, تم رفعك ادمن في المجموعة 👈😎!```",
+            "PROMOTE_DESC": "يجعل أي شخص مسؤول.",
+            "DEMOTE_DESC": "ازاله اي ادمن من الاشراف.",
+            "ALREADY_NOT_ADMIN": "```كيف يمكنني أن أجعل اي شخص مشرف في المجموعة?```",
+            "DEMOTED": "```, تم ازاله الاشراف☹️```",
+            "MUTE_DESC": "تم تفعيل سماح المشرفين فقط الارسال في هذه المجمو.\n⌨️ مثال: .mute  او  .mute 5m ",
+            "MUTED": "```تم تفعيل الارسال للمشرفين فقط!```",
+            "UNMUTE_DESC": "تفعيل سماح للكل بالارسال في هذه المجموعة",
+            "UNMUTED": "```تم فتح المجموعة للجميع```",
+            "INVITE_DESC": "يوفر رابط المجموعة",
+            "INVITE": "```رابط المجموعة :  ```"
         },
         "locate": {
-            "L_DESC": "It send your location.",
-            "L_WARN": "Please open your location before using command!"
+            "L_DESC": "أرسل موقعك.",
+            "L_WARN": "يرجى فتح موقع GPS قبل أستخدم الامر!"
         },
         "news": {
-            "NEWS_DESC": "It send News."
+            "NEWS_DESC": "ارسال اخر الاخبار."
         },
         "afk": {
             "AFK_DESC": "It makes you AFK - Away From Keyboard.",
@@ -79,10 +79,10 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Restarting...```",
-            "SHUTDOWN_DESC": "Shutdown WhatsAsena",
-            "SHUTDOWN_MSG": "```Appo Seri Tata📴```",
+            "RESTART_DESC": "اعاده تشغيل بوت ميزو حاكم الدمار 🤖🔥",
+            "RESTART_MSG": "```اعاده تشغيل البوت...```",
+            "SHUTDOWN_DESC": "ايقاف البوت",
+            "SHUTDOWN_MSG": "```تم ايقاف البوت 📴```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -131,7 +131,7 @@
         },
         "lydia": {
             "ADDLYDIA_DESC": "Activates Lydia (AI) for the user.",
-            "NEED_REPLY": "```Please respond to a user's message!```",
+            "NEED_REPLY": "```يرجى الرد على رسالة المستخدم!```",
             "COFFEEHOUSE": "```You haven't defined the Coffehouse API Key! ```",
             "ENABLED_LYDIA": "```Lydia has been activated for this user!```",
             "RMLYDIA_DESC": "Makes Lydia disabled for the user.",
@@ -141,29 +141,29 @@
         },
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
-            "NEED_REPLY": "*Reply to a photo!*",
+            "NEED_REPLY": "*رد على الصورة!",
             "DOWNLOADING": "```Downloading media & making meme...```"
         },
         "ocr": {
-            "OCR_DESC": "Reads the text on the photo you have replied.",
-            "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "```Media is downloading & reading...```",
-            "ERROR": "```I couldn't read this :/```\n*Error:*```{}```",
-            "RESULT": "*Language:* ```{}```\n*Here is what I read:* ```{}```"
+            "OCR_DESC": "يقرأ النص الموجود على الصورة التي ردت عليها.",
+            "NEED_REPLY": "*رد على الصورة!*",
+            "DOWNLOADING": "```جاري تحميل...```",
+            "ERROR": "```لايمكن تنزيل:/```\n*خطأ:*```{}```",
+            "RESULT": "*اللغة:* ```{}```\n*هنا ما قرأته في الصورة* ```{}```"
         },
         "profile": {
-            "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! Lizamwol ini varathilla 🥲```",
-            "PP_DESC": "Makes the profile photo what photo you reply.",
-            "NEED_PHOTO": "*Give me a photo!*",
-            "PPING": "```Setting profile photo...```",
-            "BLOCK_DESC": "Block user.",
-            "UNBLOCK_DESC": "Unblock user.",
-            "BLOCKED": "blocked",
-            "UNBLOCKED": "unblocked",
-            "BLOCKED_UPPER": "Blocked!",
-            "UNBLOCKED_UPPER": "Unblocked.",
-            "NEED_USER": "Give me a user!",
+            "KICKME_DESC": "يغادر من المجموعة التي تستخدمها البوت.",
+            "KICKME": "```ودعا يتم مغادرة المجموعة 🥲```",
+            "PP_DESC": "يجعل صورة الملف الشخصي ما الصورة التي ترد عليها ",
+            "NEED_PHOTO": "*أعطني صورة!*",
+            "PPING": "```وضع صورة الملف الشخصي .....```",
+            "BLOCK_DESC": "حظر",
+            "UNBLOCK_DESC": "فك الحظر",
+            "BLOCKED": "تم الحظر",
+            "UNBLOCKED": "تم فك الحظر",
+            "BLOCKED_UPPER": "تم الحظر!",
+            "UNBLOCKED_UPPER": "تم فك الحظر.",
+            "NEED_USER": "حدد على رساله الشخص او ضع علامه منشن للشخص!",
             "JID_DESC": "Giving user's JID.",
             "JID": "```JID address of``` @{} ```: {}```",
             "JID_CHAT": "```Chat's JID address: {}```"
@@ -175,59 +175,59 @@
             "RBGING": "```Removing background...```"
         },
         "scrapers": {
-            "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
-            "TRANSLATE_USAGE": ".trt tr it (From Turkish to Italian)",
-            "NEED_REPLY": "```Please reply to any message!```",
-            "LANG": "Language",
-            "SING_DESC": "It sings song that you have written",
+            "TRANSLATE_DESC": "يترجم اي رساله. يجب عليك الرد على أي رسالة لترجمتها.",
+            "TRANSLATE_USAGE": ".trt auto ar 👈 (ترجمه من اي للغه الى اللغه العربية)",
+            "NEED_REPLY": "```يرجى الرد علي اي رسالة!```",
+            "LANG": "اللغة",
+            "SING_DESC": "ينزل الأغنية التي كتبتها",
             "CURRENCY_DESC": "It coverts currency",
-            "FROM": "Translated Language",
-            "RESULT": "Translate",
+            "FROM": "ترجمه من اللغه الى اللغه العربية",
+            "RESULT": "نتيجه الترجمه ♻️ ",
             "DEVICE": "It shows the details of requested devices",
             "TRANSLATE_ERROR": "❌ An error occured while translating!*",
             "CURRENCY_ERROR": "```Syntax error! Example: .currency 1 TRY USD```",
             "INVALID_CURRENCY": "```Foreign currency transaction failed. You wrote wrong currency!```",
             "UNKNOWN_ERROR": "```An error occurred. Foreign currency transaction failed!```",
-            "TTS_DESC": "It converts text to sound.",
+            "TTS_DESC": "تحويل اي رساله نصيه او ايموجي الى صوت 🗣️",
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
-            "SONG_DESC": "Uploads the song you wrote.",
-            "ISONG_DESC": "Uploads the song you wrote for ios users.",
-            "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song eminem - rap god```",
+            "SONG_DESC": "يرجى الانتظار يتم تنزيل الأغنية...🎼",
+            "ISONG_DESC": "يتم تنزيل الأغنية التي كتبها مستخدمين ايفون",
+            "NEED_TEXT_SONG": "*ات!*\n*Example:* ```.song eminem - rap god```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "✮⃝🕊️𝕯𝖔𝖜𝖓𝖑𝖔𝖆𝖉𝖎𝖓𝖌 𝖄𝖔𝖚𝖗 𝕾𝖔𝖓𝖌✮⃝🕊️",
+            "DOWNLOADING_SONG": "✮⃝🕊️تم تنزيل الاغنيه الذي طلبتها 🤖🎼✮⃝🕊️",
             "NAMEY": "NAME",
             "URL": "LINK",
             "THUMB": "THUMB",
             "RATING": "RATING",
-            "UPLOADING_SONG": "✮⃝🕊️✿𝖀𝖕𝖑𝖔𝖆𝖉𝖎𝖓𝖌 𝖄𝖔𝖚𝖗 𝕾𝖔𝖓𝖌✿✮⃝🕊️",
+            "UPLOADING_SONG": "✮⃝🕊️✿تحميل الاغنيه الذي طلبتها 📲🎼✿✮⃝🕊️",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```Downloading```",
-            "UPLOADING_VIDEO": "```Uploading```",
+            "DOWNLOADING_VIDEO": "```يرجى الانتظار سيتم تنزيل الفيديو الذي طلبته🤖🎥```",
+            "UPLOADING_VIDEO": "```تم تنزيل الفيديو الذي طلبته 📲🎥```",
             "LOADING": "```Downloading video```",
-            "YT_DESC": "It searchs on YouTube.",
+            "YT_DESC": "يتم البحث في يوتيوب.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
-            "SEARCHING": "* 🔎 Searching...*",
+            "SEARCHING": "* 🔎 يرجى الانتظار يتم البحث...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
-            "IMG": "Uploading photo ```{}``` number ```{} ```..."
+            "IMG": "يتم تنزيل الصور الذي طلبتها```{}``` number ```{} ```..."
         },
         "sticker": {
-            "STICKER_DESC": "It converts your replied photo or video to sticker.",
-            "NEED_REPLY": "*Reply to a photo or video!*",
+            "STICKER_DESC": "يقوم بتحويل الصوره أو الفيديو إلى الملصق",
+            "NEED_REPLY": "*حدد على صورة او الفيديو ورسل الأمر!*",
             "DOWNLOADING": "```Wait 👁️‍🗨️ cheyy ippo taram✔️```"
         },
         "system_stats": {
-            "ALIVE_DESC": "Does bot work?",
+            "ALIVE_DESC": "هل يعمل بوت؟",
             "SYSD_DESC": "Shows the system properties."
         },
         "tagall": {
-            "TAGALL_DESC": "Tags everyone in the group.",
-            "ADMİN": "*I am not admin in this group!*",
+            "TAGALL_DESC": "علامات الجميع في المجموعة.",
+            "ADMİN": "*أنا لست المسؤول في هذه المجموعة!*",
             "SCAN": "Checks whether the entered number is registered on WhatApp.",
-            "NO": "*Please Enter Any Phone Number!*\n*Example:* ```.scan 90xxxx```",
+            "NO": "*يرجى ادخال اي رقم تلفون للتاكد انه يستخدم واتس اب !*\n*Example:* ```.scan 90xxxx```",
             "SUC": "*Numbered Person Uses WhatsApp! ✅*",
             "UNSUC": "*Numbered Person Does Not Use WhatsApp! ❌*",
             "PLKADMIN": ".report you are not admin \n\n 🇩​🇴​🇳​🇹​ 🇹​🇷​🇾​ 🇦​🇬​🇦​🇮​🇳​, 🇮​🇫​ 🇾​🇴​🇺​ 🇹​🇷​🇾​ 🇾​🇴​🇺​ 🇼​🇮​🇱​🇱​ 🇧​🇪​ 🇷​🇪​🇲​🇴​🇻​🇪​🇩​ 🇧​🇾​ 🇦​🇩​🇲​🇮​🇳​🇸​",
@@ -260,7 +260,7 @@
         },
         "log": {
             "LOG": "Saves the message you reply to your private number.",
-            "REPLY": "*Please Reply To Any Message!*",
+            "REPLY": "*الرجاء الرد على أي رسالة!*",
             "ANIM": "Does not support animated stickers!",
             "HEAD": "```===== [LOGGED MESSAGE] =====```\n\n",
             "USER": " From User Number \n",
@@ -269,16 +269,16 @@
             "SUC": "*Message Successfully Saved to LOG!*"
         },
         "weather": {
-            "WEATHER_DESC": "Shows the weather.",
-            "NEED_LOCATION": "* Please write a location!*\n*Example:* ```.weather Bakü```",
-            "LOCATION": "Location",
-            "HMOD": "Finds mod apps from happymod",
+            "WEATHER_DESC": "معرفه حاله الطقس في اي منطقه تريدها ",
+            "NEED_LOCATION": "*اكتب  اسم المنطقه او المدينه* \n *مثال  :* ```.weather المكلا``` "
+            "LOCATION": "الموقع",
+            "HMOD": "ينزل تطبيقات و برامج من happymod",
             "QUOTE_DESC": "It shares famous quotes",
             "CM_DESC": "It sends complimentry sentenses",
             "EVINS_DESC": "It sends insulted words",
             "JOKE_DESC": "It sends random jokes",
-            "APK_MOD": "It sends some special mod apks",
-            "CARBON_DESC": "It sends carbon picture",
+            "APK_MOD": "ينزل برامج الذي تطلبها🤖📲",
+            "CARBON_DESC": "يرسل صورة تصميم الذي طلبتها",
             "TEMP": "Temperature",
             "BOT_DESC": "Chat with Pinky.\n Use .molu <message>",
             "BOT": ":",
@@ -287,12 +287,12 @@
             "HUMI": "Humidity",
             "WIND": "Wind Speed",
             "CLOUD": "Cloud",
-            "NOT_FOUND": "```I couldn't find a city with this name. 😖```"
+            "NOT_FOUND": "```لم أجد مدينة بهذا الاسم. 😖```"
         },
         "web": {
-            "SPEEDTEST_DESC": "Measures Download and Upload speed.",
-            "SPEEDTESTING": "```Running speed test...```",
-            "SPEEDTEST_RESULT": "*Speed ​​test completed!*",
+            "SPEEDTEST_DESC": "تدابير تنزيل وتحميل السرعة.",
+            "SPEEDTESTING": "```تشغيل اختبار السرعة...```",
+            "SPEEDTEST_RESULT": "*اختبار السرعة تفعل !*",
             "UPLOAD": "Upload",
             "DOWNLOAD": "Download",
             "CALC": "Performs simple math operations.",
@@ -300,27 +300,27 @@
             "UNSUC": "*Calculation Failed ❌*\n*Error:* \n",
             "VALİD": "*Please Use As Applicable!* \n*.calc 1 + 2*\n*.calc 3 x 5*\n*.calc 10 / 5*\n*.calc 5 - 2*",
             "PING_DESC": "Measures your ping.",
-            "URL": "Shorten the long link."
+            "URL": "تقصير الرابط الطويل.."
         },
         "conventer": {
-            "MP4TOAUDİO_DESC": "Converts video to sound.",
-            "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
-            "MP4TOAUDİO": "```Converting Video to Audio..```",
-            "ANİM_STİCK": "Converts animated stickers to video.",
-            "ANİMATE": "```Converting Animated Sticker To Video..```",
-            "STİCKER_DESC": "Converts the sticker to a photo.",
-            "STİCKER_NEEDREPLY": "*You Must Reply to a sticker!*",
-            "STİCKER": "```Converting the sticker to a photo..```",
-            "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
+            "MP4TOAUDİO_DESC": "تحويل فيديو إلى صوت 🎶.",
+            "MP4TOAUDİO_NEEDREPLY": "*يجب عليك الرد على الفيديو!*",
+            "MP4TOAUDİO": "```جاري تحويل الفيديو إلى صوت ♻️🎶..```",
+            "ANİM_STİCK": "تحويل ملصقا متحرك إلى الفيديو🎥",
+            "ANİMATE": "```تم تحويل ملصقا متحرك إلى الفيديو..```",
+            "STİCKER_DESC": "يحول الملصق إلى الصورة.",
+            "STİCKER_NEEDREPLY": "*يجب عليك الرد على الملصق!*",
+            "STİCKER": "```تم تحول الملصق إلى الصورة..```",
+            "XMEDİA_DESC": " اداه توجد فيها اكثر من 30 تصميم و تأثيرات فيديو.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_DESC": "Applies the selected TBlend effect to videos." 
         },
         "multiuse": {
-            "NEED_WORD": "*Please enter username of any instagram account.*"
+            "NEED_WORD": "*الرجاء إدخال اسم المستخدم لأي حساب Instagram.*"
         },
         "mute": {
-            "BİRMUTE": "*The group was silenced for 1 minute!*",
+            "BİRMUTE": "*تم اغلاق المجموعة لمدة دقيقة واحدة!*",
             "İKİMUTE": "*The group was silenced for 2 minute!*",
             "ÜÇMUTE": "*The group was silenced for 3 minute!*",
             "DÖRTMUTE": "*The group was silenced for 4 minute!*",
@@ -399,9 +399,9 @@
             "MUTE_OPEN": "```The group chat has unmuted!```"
         },
         "unvoice": {
-            "UV_DESC": "Converts audio to sound recording.",
-            "UV_REPLY": "*You Must Reply to the Audio File!*",
-            "UV_PROC": "```Converting to Sound Recording..```"
+            "UV_DESC": "يحول الصوت إلى تسجيل الصوت",
+            "UV_REPLY": "*يجب عليك الرد على ملف الصوت!*",
+            "UV_PROC": "```يتم تحويل إلى تسجيل الصوت..```"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
@@ -420,11 +420,11 @@
             "FOTO_DESC": "Sends the replied photo as spam.",
             "FOTO_FOT": "```Please Reply To Any Picture!```",
             "VİD_DESC": "Sends the replied video as spam.",
-            "VİD_NEED": "```Please Reply to Any Video!```"
+            "VİD_NEED": "```الرجاء الرد على أي فيديو!```"
         },
         "carbon": {
-            "CARBON_DESC": "Uses carbon.sh for Text-to-Image",
-            "CARBON_NEEDWORD": "*Not enough arguments to translate Text-to-Image!*\nExample: ```.carbon test```\nExample: ```.carbon making#test```",
+            "CARBON_DESC": "تصميم و تحويل نص الى صورة",
+            "CARBON_NEEDWORD": "*Not enough arguments to translate Text-to-Image!*\nمثال : ```.carbon test```\nExample: ```.carbon making#test```",
             "CARBON_WARN": "Please only type in en and tr character!"
         },
         "scam": {
@@ -435,29 +435,29 @@
         "deepai": {
             "DEEPAI_DESC": "Runs the most powerful artificial intelligence tools using artificial neural networks.",
             "TEXT": "*You must enter text! Although I am a powerful artificial intelligence, I cannot read your thoughts!*",
-            "URL": "*You must enter the image URL!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
+            "URL": "*You must enter the image URL!*\n*Example:* https://i.hizlreim.com/nrg50b.jpg"
         },
         "ttp": {
-            "TTP_DESC": "Converts text to plain painting.",
-            "ATTP_DESC": "Adds rainbow effect to the text as a sticker.",
-            "NEED_WORD": "*You must enter words!*",
-            "ANIME_DESC": "It writes the text inside the banner the anime girl is holding",
-            "TRUMP_DESC": "Converts the text to Trump's tweet.",
+            "TTP_DESC": "يحول النص إلى اللوحة العادية.",
+            "ATTP_DESC": "يحول نص و يضيف تأثير قوس قزح على النص كملصق.",
+            "NEED_WORD": "*يجب أن تكتب الكلمات!*",
+            "ANIME_DESC": "يكتب النص داخل راية الفتاة أنيمي",
+            "TRUMP_DESC": "يحول النص الى  Trump's tweet.",
             "CHANGE_DESC": "Turns the text into the change my mind poster.",
-            "GLOW_DESC": "Converts text into neon painting."
+            "GLOW_DESC": "يحول النص إلى لوحة النيون"
         },
         "wallpaper": {
-            "WP": "It sends high resolution wallpapers."
+            "WP": "يرسل خلفيات عالية الدقة."
         },
         "webss": {
-            "SS_DESC": "Takes a screenshot from the page in the given link.",
-            "LİNK": "You must enter link!"
+            "SS_DESC": "يأخذ لقطة شاشة من الصفحة في الرابط المحدد..",
+            "LİNK": "يجب إدخال الرابط!"
         },
         "voicy": {
-            "NEED_REPLY": "```Please reply to any message!```",
-            "ONLY_AUDIO":"```Only audio file is accepted.```",
-            "USAGE": "It converts audio to text.",
-            "TEXT": "*Hey! I listened secretly to this voice and heard those!:* \n\n"
+            "NEED_REPLY": "```الرجاء الرد على أي رسالة!```",
+            "ONLY_AUDIO":"```يتم قبول ملف الصوت فقط.```",
+            "USAGE": "يحول الصوت إلى النص..",
+            "TEXT": "*مهلا! لقد استمعت سرا إلى هذا الصوت وسمعت تلك::* \n\n"
         },
         "notes": {
             "NOTES_USAGE": "Shows all your existing notes.",
@@ -471,10 +471,10 @@
             "SUCCESSFULLY_DELETED": "Successfully deleted all your notes."
         },
         "instagram": {
-            "NEED_WORD": "*Please enter username of any instagram account.*",
+            "NEED_WORD": "*الرجاء إدخال اسم المستخدم لأي حساب Instagram..*",
             "USAGE": ".insta <userName>",
             "DESC": "Fetches user informations from instagram",
-            "LOADING": "*Searching*",
+            "LOADING": "*يبحث 🔍...*",
             "USERNAME": "Username",
             "FULL_NAME": "Fullname",
             "PRIVATE": "Private",
@@ -482,7 +482,7 @@
             "ACCOUNT": "Account privacy",
             "PUBLIC": "Public",
             "HIDDEN": "Hidden",
-            "NOT_FOUND":"User not found: "
+            "NOT_FOUND":"مستخدم غير موجود! "
         },
         "github": {
             "GİTHUB_DESC": "Collects github information from the given username.\n⌨️ Example: .github phaticusthiccy",
@@ -504,12 +504,12 @@
             "HİRE_TRUE": "Hirable ☑️",
             "HİRE": "Can s/he Hirable?:",
             "URL": "Profile URL:",
-            "UPDATE": "Last Update:"
+            "UPDATE": "اخر تحديث:"
         },
         "tiktok": {
-            "TİKTOK": "Downloads videos from Tiktok.",
-            "NEED": "```You Must Enter Any Tiktok Link!``` \n*Example:* ```.tiktok https://vm.tiktok.com/ZSJY27ExT/```",
-            "DOWN": "```Downloading Media..```",
+            "TİKTOK": "تنزيل الفيديو من Tiktok..",
+            "NEED": "```يجب عليك إدخال أي رابط Tiktok!``` \n*مثال :* ```.tiktok https://vm.tiktok.com/ZSJY2ExT/```",
+            "DOWN": "```يتم تنزيل انتظر دقيقه من فضلك..```",
             "CAPTİON": "Title:",
             "USERNAME": "Username:",
             "NAME": "Name:",
@@ -522,19 +522,21 @@
             "M_AUT": "Music Author:"
         },
         "lyrics": {
-            "LY_DESC": "Finds the lyrics of the song.",
-            "NEED": "```You Must Write Any Song!```",
+            "LY_DESC": "يبحث عن الاغنيه الذي طلبتها",
+            "NEED": "```يجب عليك كتابة أي أغنية!```",
             "SLY": "Lyrics:",
             "AUT": "Song Owner:",
             "BUL": "Founded Song:",
-            "ARAT": "Searched Song:"
+            "ARAT": "البحث عن الأغنية::"
         },
         "gitlink": {
             "GL": "To get github links."
         },
         "covid": {
-            "COV_DESC": "Shows the daily and overall covid table of more than 15 countries.",
-            "NOT": "```Sorry I Could Not Find A Country Like This! Please Enter Applicable Country Codes!```\n\n```Country Codes:``` *.covid tr || az || usa || in || cn || nl || pk || ru || de || uk || gr || fr || jp || kz || id*"
+            "COV_DESC": "يظهر نتائج كورونا اليومي لأكثر من 15 دولة..",
+            "NOT": "```آسف لم أتمكن من العثور على بلد مثل هذا! الرجاء إدخال رموز البلد المعمول بها!!```\n\n```Country Codes:``` *.covid tr || az || usa || in || cn || nl || pk || ru || de || uk || gr || fr || jp || kz || id*"
         }
     }
 }
+
+

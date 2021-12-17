@@ -16,19 +16,20 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
 
     
 
-    r_text[0] = "https://i.imgur.com/rlpkX3j.jpeg";
+    r_text[0] = "https://bit.ly/3cwa8fv";
+    r_text[1] = "https://bit.ly/3DOgLpP";
 
     
 
     
 
-    var i = Math.floor(1*Math.random())
+    var i = Math.floor(2*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘SETVAR💘━━⛦
 
-𝐇𝐞𝐥𝐥𝐨 🦋 𝐈 𝐚𝐦 𝐚 Lizamwol 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨 𝐈 𝐚𝐦 𝐚 𝐓𝐚𝐮𝐫𝐮𝐬 𝐛𝐨𝐭.
 
   
 
@@ -118,7 +119,7 @@ All setvars are
 
  .setvar THERI_LIST:badword,badword
 
- To change AMALSER bot name
+ To change bot name
 
  .setvar BOT_NAME:your bot name
 
@@ -126,17 +127,17 @@ All setvars are
 
  .setvar TAG_REPPLY:your jid 
 
-     *happy using Lizamwol bot 🧚‍♂️*
+     *happy to using Taurus bot 🧚‍♂️*
 
-*Editing And Devaloper : Nithin-Fayas*
+*Editing And Devaloper : Muhammed*
 
-*Erorr Fixing : Fayas Ser💘*
+*Erorr Fixing : Muhammed*
 
-*Supporting : Black mods*
+*Supporting : Toxide ser*
 
-*User Support : Nithin*
+*User Support : toxide*
 
-      ═════💢💢═════
+════════════════════
 
 `}) 
 

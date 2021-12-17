@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Liza Mwol working!')
+            chalk.green.bold('✅ TAURUS BOT IS WORKING !')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -158,7 +158,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Bot Started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*TAURUS STARTED*', MessageType.text);
                 }
             }
             else {
@@ -180,7 +180,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Bot Started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*TAURUS STARTED*', MessageType.text);
                 }
 
             }
@@ -206,7 +206,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*Bot Started*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*TAURUS STARTED*', MessageType.text);
                 }
             }
             else {
@@ -229,7 +229,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*Bot Started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*TAURUS STARTED*', MessageType.text);
                 }
             }
         }
@@ -396,8 +396,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝐋𝐈𝐙𝐀 𝐌𝐖𝐎𝐋࿐ ~______~*' +
-                                    '\n\n*👾 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\nchat.whatsapp.com/FVOdpPLaMvP24rIfTzCGof``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝐓𝐀𝐔𝐑𝐔𝐒 𝐄𝐑𝐑𝐎𝐑࿐ ~______~*' +
+                                    '\n\n*ғᴏᴜɴᴅ ᴀ ᴇʀʀᴏʀ' + error + '*\n\n```ᴇʀʀᴏʀ ɪs ɴᴏᴛ ᴀ ᴘʀᴏʙʟᴇᴍ\nᴊᴏɪɴ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛ\nchat.whatsapp.com/FVOdpPLaMvP24rIfTzCGof``` ' 
                                     , MessageType.text);
                             }
                         }

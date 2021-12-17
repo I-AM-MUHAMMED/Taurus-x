@@ -24,11 +24,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 ╰────────────────────╯
 ╭────────────────────╮
 │
-│ ʜᴇʏ ᴜsᴇʀ ` + wish + `
-│         *⌚` + time + `*
 │
-┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ` + Config.OWNER + `
-┣𝕾⃝🌺 *ʙᴏᴛ* : ` + config.BOTV2 + `
+┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : '+Config.OWNER+'
+┣𝕾⃝🌺 *ʙᴏᴛ* : '+Config.BOTV2+'
 ┣𝕾⃝🌺 *ᴠᴇʀsɪᴏɴ* : 2.0.0
 ┣𝕾⃝🌺 *ғᴜʟʟ ᴇᴠᴀ* : ` + taurus + `
 ┣𝕾⃝🌺 *ᴍᴏᴅᴇ* : ᴘᴜʙʟɪᴄ

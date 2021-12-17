@@ -397,7 +397,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ 𝐓𝐀𝐔𝐑𝐔𝐒 𝐄𝐑𝐑𝐎𝐑࿐ ~______~*' +
-                                    '\n\n*ғᴏᴜɴᴅ ᴀ ᴇʀʀᴏʀ' + error + '*\n\n```ᴇʀʀᴏʀ ɪs ɴᴏᴛ ᴀ ᴘʀᴏʙʟᴇᴍ\nᴊᴏɪɴ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛ\nchat.whatsapp.com/FVOdpPLaMvP24rIfTzCGof``` ' 
+                                    '\n\n*ғᴏᴜɴᴅ ᴀ ᴇʀʀᴏʀ :' + error + '*\n\n```ᴇʀʀᴏʀ ɪs ɴᴏᴛ ᴀ ᴘʀᴏʙʟᴇᴍ\nᴊᴏɪɴ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛ :\nhttps://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL``` ' 
                                     , MessageType.text);
                             }
                         }

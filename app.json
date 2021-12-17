@@ -78,7 +78,7 @@
         "TAURUS_AI": {
             "description": "turn on chat back auto reply Tᴀᴜʀᴜs (use true to on and fale to off)",
             "required": true,
-            "value": "true"
+            "value": "false"
         },
         "NO_LOG": {
             "description": " Set true if you don't want to see error log.",

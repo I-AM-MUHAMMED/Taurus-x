@@ -48,6 +48,12 @@ $ node Taurus.js
 ```
 
 ----
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammed-usrbot&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+  </div>
+
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://github.com/muhammed-userbot)
+
 
 <h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
 <p align="center">

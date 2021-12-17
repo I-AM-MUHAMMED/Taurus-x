@@ -1,5 +1,5 @@
 /* Amalser Bot
-Re-edit Amalser + chunkindepadayali
+Re-edit Amalser + muhammed-usrbot
 */
 
 const LizaMwol = require('../events');
@@ -25,8 +25,8 @@ LizaMwol.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (
       ]
       
       const buttonMessage = {
-          contentText: '```'+Config.BOTV2+'\n\n```'+Config.ALIVEMSG+'\n',
-          footerText: 'ʟɪᴢᴀ ᴍᴡᴏʟ™ ',
+          contentText: '```╭──────────────────╮\n'+Config.BOTV2+'\n╰──────────────────╯\n\n```'+Config.ALIVEMSG+'\n',
+          footerText: 'ᴛᴀᴜʀᴜs ʙᴏᴛ™ ',
           buttons: buttons,
           headerType: 1
       }

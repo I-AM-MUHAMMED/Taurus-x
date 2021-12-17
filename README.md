@@ -1,22 +1,38 @@
 
+<p align="center">
+𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
+
+<p align="center">
+𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 𝙼𝚄𝙷𝙰𝙼𝙼𝙴𝙳
+
+##
+<a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
 <div align="center">
   <img border-radius: 15px src="https://tenor.com/view/cute-anime-wave-hi-hello-gif-8807701.gif"width="200" height="200"/>
   <p align="center">
     
     
-<a href="#"><img title="TAURUS" src="https://img.shields.io/badge/TAURUS-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</a>
 </p>
+<div align="center">
+ <p align="center">
+<a href="#"><img title="TAURUS" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
+
+</p>
+       
   <p align="center">
-<a href=https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MUHAMMED-/TAURUS?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/muhammed-userbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/muhammed-usrbot">MUHAMMED</a> to make it public
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
     <br>
        | © |
         Reserved |
     <br> 
 </p>
+
+<div align="center">
 
 ## Setup
 <div align="center">

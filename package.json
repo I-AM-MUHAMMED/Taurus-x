@@ -1,14 +1,14 @@
 {
-  "name": "LizaMwol",
+  "name": "Taurus-Bot",
   "version": "7.3.6",
-  "description": "Liza Mwol is the Modified Version of WhatsAsena, Made By @Chunkindepadayali with Baileys.",
-  "main": "./LIZA-MWOL/bot.js",
+  "description": "Taurus-Bot is the Modified Version of WhatsAsena, Made By @muhammed-usrbot with Baileys.",
+  "main": "./Taurus-Bot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chunkindepadayali/LIZA-MWOL.git"
+    "url": "git+https://github.com/muhammed-usrbot/taurus-bot.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,10 +18,10 @@
     "WhatsAsena"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "developer": " @muhammed-usrbot / @farhan-dqz",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Chunkindepadayali/LIZA-MWOL/issues"
+    "url": "https://github.com/muhammed-usrbot/taurus-bot/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {

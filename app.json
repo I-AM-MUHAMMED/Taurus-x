@@ -170,7 +170,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands \n\n codded bye Muhammed 🖤 {pp}```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands \n\n codded by Muhammed 🖤 {pp}```"
         },
         "ALIVEBUTTON": {
             "description": "Set the alive message two name",

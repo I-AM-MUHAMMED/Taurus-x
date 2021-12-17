@@ -20,15 +20,15 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭────────────────────╮
-   ` + config.BOTSK + `
+   ` + config.BOTV2 + `
 ╰────────────────────╯
 ╭────────────────────╮
 │
 │ ʜᴇʏ ᴜsᴇʀ ` + wish + `
 │         *⌚` + time + `*
 │
-┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ` + Config.PLK + `
-┣𝕾⃝🌺 *ʙᴏᴛ* : ` + config.BOTSK + `
+┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ` + Config.OWNER + `
+┣𝕾⃝🌺 *ʙᴏᴛ* : ` + config.BOTV2 + `
 ┣𝕾⃝🌺 *ᴠᴇʀsɪᴏɴ* : 2.0.0
 ┣𝕾⃝🌺 *ғᴜʟʟ ᴇᴠᴀ* : ` + eva + `
 ┣𝕾⃝🌺 *ᴀᴜᴛᴏ ʙɪᴏ* : ` + auto_bio + `
@@ -59,7 +59,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 │
 │
 │☘︎ *ɢɪᴛʜᴜʙ ʟɪɴᴋ :*
-│ *https://t.ly/K9aD*
+│ *https://bit.ly/30GcHJS*
 │
 │
 │

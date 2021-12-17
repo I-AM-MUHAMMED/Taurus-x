@@ -114,9 +114,9 @@ By establishing the Taurus-Bot, you are deemed to have accepted these responsibi
 ## Developers 
   <div align="center">
     
-  [![muhammed-usrbot](https://github.com/muhammed-userbot.png?size=100)](https://github.com/muhammed-userbot) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TAURUS](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
+  [![MUHAMMED](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TAURUS](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
 ----|----|----
-[MUHAMMED](https://github.com/muhammed-userbot) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [TAURUS](https://github.com/taurus-x-toxide)
+[MUHAMMED](https://github.com/muhammed-usrbot) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [TAURUS](https://github.com/taurus-x-toxide)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 

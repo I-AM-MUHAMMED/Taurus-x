@@ -8,8 +8,10 @@
 ##
 <a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
 <div align="center">
-  <img border-radius: 15px src="https://tenor.com/view/cute-anime-wave-hi-hello-gif-8807701.gif"width="200" height="200"/>
-  <p align="center">
+ 
+<div align="center">
+        <img src="https://c.tenor.com/bVm05NUoyF0AAAAC/bokuno-hero-academia-izuku.gif" alt="GIF" width="250" height="250"/>
+</p>
     
     
 </a>

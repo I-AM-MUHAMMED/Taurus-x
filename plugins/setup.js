@@ -21,13 +21,13 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭────────────────────╮
-    '+Config.BOTV2+'
+    • GITHUB LINK •
 ╰────────────────────╯
 ╭────────────────────╮
 │
 │
-┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : '+config.OWNER+'
-┣𝕾⃝🌺 *ʙᴏᴛ* : ' + config.BOTV2 + '
+┣𝕾⃝🌺 *ᴄʀᴇᴀᴛᴇʀ* : ᴍᴜʜᴀᴍᴍᴇᴅ
+┣𝕾⃝🌺 *ʙᴏᴛ* : ᴛᴀᴜʀᴜs
 ┣𝕾⃝🌺 *ᴠᴇʀsɪᴏɴ* : 2.0.0
 ┣𝕾⃝🌺 *ᴍᴏᴅᴇ* : ᴘᴜʙʟɪᴄ
 ┣𝕾⃝🌺 *ᴘʀᴇғɪx* : *. ; !*

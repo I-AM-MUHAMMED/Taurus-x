@@ -1,16 +1,15 @@
 const Asena = require('../events');
-const {MessageType} = require('@adiwajshing/baileys');
-const Config = require('../config');
+const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
-
+const config = require('../config');
+const fs = require("fs")
 const Language = require('../language');
-const Lang = Language.getString('wallpaper');
+const Lang = Language.getString('gitlink');
 
-Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, match) => {
+Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message, match) => {
 
-    var r_text = new Array ();
-    
-    
+    var respoimage = await axios.get(config.LIZA, { responseType: 'arraybuffer' })
+
    
   r_text[0] = "https://bit.ly/3DOgLpP";
   r_text[1] = "https://bit.ly/3cwa8fv";   
@@ -20,8 +19,8 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `╭────────────────────╮
-    • GITHUB LINK •
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('20210811_082543.jpg'), mimetype: Mimetype.png, caption: `*Config.AFN*
+     • GITHUB LINK •
 ╰────────────────────╯
 ╭────────────────────╮
 │

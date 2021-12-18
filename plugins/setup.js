@@ -8,11 +8,9 @@ const Lang = Language.getString('gitlink');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message, match) => {
 
-    var respoimage = await axios.get(config.LIZA, { responseType: 'arraybuffer' })
-
    
-  r_text[0] = "https://bit.ly/3DOgLpP";
-  r_text[1] = "https://bit.ly/3cwa8fv";   
+      r_text[0] = "https://bit.ly/3DOgLpP";
+      r_text[1] = "https://bit.ly/3cwa8fv";   
 
 
     var i = Math.floor(2*Math.random())

@@ -1,7 +1,6 @@
 const Asena = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const Config = require('../config')
-const config = require('../config'
 const axios = require('axios');
 
 const Language = require('../language');

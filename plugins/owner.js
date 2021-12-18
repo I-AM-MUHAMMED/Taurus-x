@@ -12,10 +12,10 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*TAURUS-BOT BY Config.OWNERSHIP*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*TAURUS-BOT BY  ' + Config.OWNER + '*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNERSHIP + '\n\n---------------------', MessageType.text);
+            await message.client.sendMessage(message.jid, ' + Config.OWNER + '\n\n---------------------', MessageType.text);
         }
     }));
 }
@@ -30,10 +30,10 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*TAURUS-BOT BY Config.OWNERSHIP*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*TAURUS-BOT BY  ' + Config.OWNER + '*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNERSHIP + '\n\n--------------------', MessageType.text);
+            await message.client.sendMessage(message.jid, ' + Config.OWNER + '\n\n--------------------', MessageType.text);
         }
     }));
 }

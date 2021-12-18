@@ -1,5 +1,7 @@
 const Asena = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
+const Config = require('../config')
+const config = require('../config'
 const axios = require('axios');
 
 const Language = require('../language');
@@ -25,8 +27,8 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 ╭────────────────────╮
 │
 │
-┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ' + Config.OWNER + '
-┣𝕾⃝🌺 *ʙᴏᴛ* : '+Config.BOTV2+'
+┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : '+config.OWNER+'
+┣𝕾⃝🌺 *ʙᴏᴛ* : ' + config.BOTV2 + '
 ┣𝕾⃝🌺 *ᴠᴇʀsɪᴏɴ* : 2.0.0
 ┣𝕾⃝🌺 *ᴍᴏᴅᴇ* : ᴘᴜʙʟɪᴄ
 ┣𝕾⃝🌺 *ᴘʀᴇғɪx* : *. ; !*

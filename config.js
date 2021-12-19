@@ -61,7 +61,7 @@ module.exports = {
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
     YAK: process.env.YAK === undefined ? '918921483992,0' : process.env.YAK,
     OWNERSHIP: process.env.OWNER_SHIP === undefined ? 'MUHAMMED' : process.env.OWNER_SHIP,
-    LIZA: process.env.LOGO_LINK === undefined ? 'https://i.imgur.com/2nYs8dN.jpg' : process.env.LOGO_LINK,
+    LIZA: process.env.LOGO_LINK === undefined ? 'https://bit.ly/3cwa8fv' : process.env.LOGO_LINK,
     MWOL: process.env.BGM_DURATION === undefined ? '39999600' : process.env.BGM_DURATION,
     BOTV2: process.env.BOTV2_NAME === undefined ? 'ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴛᴀᴜʀᴜs࿐' : process.env.BOTV2_NAME,
     TAURUS_AI: process.env.TAURUS_AI === undefined ? 'false' : process.env.TAURUS_AI,

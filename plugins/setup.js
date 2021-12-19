@@ -12,10 +12,10 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     var respoimage = await axios.get(Config.LIZA, { responseType: 'arraybuffer' })
 
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('20210811_082543.jpg'), mimetype: Mimetype.png, caption: `╭────────────────────╮
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('20210811_082543.jpg'), mimetype: Mimetype.png, caption: `╭───────────────────╮
    ` + Config.BOTV2 + `
-╰────────────────────╯
-╭────────────────────╮
+╰───────────────────╯
+╭───────────────────╮
 │
 │
 ┣𝕾⃝🌺 *ᴄʀᴇᴀᴛᴇʀ* : ᴍᴜʜᴀᴍᴍᴇᴅ
@@ -29,11 +29,13 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 │       ©919961050829
 │
 │
-│☘︎ *ᴛᴏ ᴄʜᴇᴄᴋ ᴜᴘᴅᴀᴛᴇ ᴛʏᴘᴇ .ᴜᴘᴅᴀᴛᴇ*
+│☘︎ *ᴛᴏ ᴄʜᴇᴄᴋ ᴜᴘᴅᴀᴛᴇ ᴛʏᴘᴇ:
+│.ᴜᴘᴅᴀᴛᴇ*
 │
 │
 │
-│☘︎ *ʜᴏᴡ ᴛᴏ ᴜᴘᴅᴀᴛᴇ .ᴜᴘᴅᴀᴛᴇ ɴᴏᴡ*
+│☘︎ *ʜᴏᴡ ᴛᴏ ᴜᴘᴅᴀᴛᴇ:
+│.ᴜᴘᴅᴀᴛᴇ ɴᴏᴡ*
 │
 │
 │
@@ -72,7 +74,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 │
 │ 
 │    ❏᪥ᴍᴜʜᴀᴍᴍᴇᴅ᪥❏
-╰────────────────────╯
+╰───────────────────╯
 
 `}) 
 

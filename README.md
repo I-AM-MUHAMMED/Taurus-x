@@ -70,8 +70,6 @@ $ node Taurus.js
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammed-usrbot&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
 
-  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://github.com/muhammed-usrbot)
-
 
 <h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
 <p align="center">
@@ -112,6 +110,9 @@ This is an open source project, you are responsible for everything you do.
 Absolutely, Taurus-Bot executives do not accept responsibility.
 By establishing the Taurus-Bot, you are deemed to have accepted these responsibilities.
 ```
+
+[![TAURUS](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)](http://github.com/muhammed-usrbot)
+
 
 ## Developers 
   <div align="center">

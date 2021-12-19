@@ -44,7 +44,10 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammed-trfx/Taurus-x.git) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@muhammed-usrbo1/Taurus-QR)
-  
+
+<a href="❤️❤️❤️❤️">`TAURUS`</a>
+    <br>
+
 ### The Hard Method
 ```js
 GET QR

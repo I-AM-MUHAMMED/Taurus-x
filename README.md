@@ -45,7 +45,7 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@muhammed-usrbo1/Taurus-QR)
 
-<a href="❤️❤️❤️❤️">`TAURUS`</a>
+<a href="https://taurus0.yolasite.com">`TAURUS SITE`</a>
     <br>
 
 ### The Hard Method

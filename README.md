@@ -41,9 +41,9 @@
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammed-tefx/muhammed-tefx.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/taurus-x.git) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@muhammed-usrbo1/Taurus-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@muhammed-userbot/Taurus-QR)
 
 <a href="https://taurus0.yolasite.com">`TAURUS SITE`</a>
     <br>

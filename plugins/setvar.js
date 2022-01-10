@@ -31,7 +31,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
 
 
 
-*ẉa.me/⃝!ᴍ.ꪶ͢Tꫝᴜʀᴜs✿Sᴇʀꫂ⁩*
+*ꪶTꫝᴜʀᴜs✿Sᴇʀꫂ⁩*
 
 ❦︎_________☻︎_________❦︎
 

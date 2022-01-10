@@ -4,8 +4,6 @@ const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 
 const axios = require('axios');
 
-const Config = require('../config')
-
 const Language = require('../language');
 
 const Lang = Language.getString('wallpaper');
@@ -29,15 +27,13 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*SETVAR OF ` + Config.BOTV2 + *`
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝑺𝑬𝑻𝑽𝑨𝑹 𝑶𝑭 𝑻𝑨𝑼𝑹𝑼𝑺*`
 
-𝐇𝐞𝐥𝐥𝐨 𝐈 𝐚𝐦 𝐚 𝐓𝐚𝐮𝐫𝐮𝐬 𝐛𝐨𝐭.
 
-  
 
 *ẉa.me/⃝!ᴍ.ꪶ͢Tꫝᴜʀᴜs✿Sᴇʀꫂ⁩*
 
-■□■□■□■□■□■□■□■□■□■□
+❦︎_________☻︎_________❦︎
 
 All setvars are
 

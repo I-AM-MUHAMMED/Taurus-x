@@ -33,8 +33,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝑺𝑬𝑻𝑽𝑨𝑹 𝑶𝑭 𝑻𝑨𝑼𝑹𝑼𝑺*`
 
-   ` + Config.BOTV2 + `
-
+  
 ❦︎_________☻︎_________❦︎
 
 All setvars are

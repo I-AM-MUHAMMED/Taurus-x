@@ -1,3 +1,8 @@
+##### ▶ IF YOU CAN'T DEPLOY CREATE [GITHUB ACCOUNT](github.com)
+
+##### ▶ THEN COPY THIS LINK https://heroku.com/deploy?template=https://github.com/I-AM-MUHAMMED/Taurus-x 
+
+##### ▶ CHANGE MY USERNAME <I-AM-MUHAMMED> TO YOUR USER NAME AND DEPLOY
 
 <p align="center">
 𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓

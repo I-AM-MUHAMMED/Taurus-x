@@ -2,7 +2,7 @@
 
 ##### ▶ THEN COPY THIS LINK https://heroku.com/deploy?template=https://github.com/I-AM-MUHAMMED/Taurus-x 
 
-##### ▶ CHANGE MY USERNAME <I-AM-MUHAMMED> TO YOUR USER NAME AND DEPLOY
+##### ▶ CHANGE MY USERNAME I-AM-MUHAMMED TO YOUR USER NAME AND DEPLOY
 
 <p align="center">
 𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
@@ -58,7 +58,7 @@
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/muhammed-usrbot/Taurus-Bot
+$ git clone https://github.com/I-AM-MUHAMMED/Taurus-Bot
 $ cd Taurus-Bot
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -67,7 +67,7 @@ $ node Taurus.js
       
 ```js
 SETUP
-$ git clone https://github.com/muhammed-usrbot/Taurus-Bot
+$ git clone https://github.com/I-AM-MUHAMMED/Taurus-Bot
 $ cd Taurus-Bot
 $ npm i
 $ node Taurus.js
@@ -75,7 +75,7 @@ $ node Taurus.js
 
 ----
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammed-usrbot&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=I-AM-MUHAMMED&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
   </div>
 
 
@@ -91,9 +91,9 @@ $ node Taurus.js
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-usrbot&show_icons=true&theme=dark&locale=en" alt="muhammed-usrbot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=I-AM-MUHAMMED&show_icons=true&theme=dark&locale=en" alt="muhammed-usrbot" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-usrbot&theme=dark" alt="muhammed-usrbot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=I-AM-MUHAMMED&theme=dark" alt="muhammed-usrbot" /></p>
 </p>
 
 
@@ -119,15 +119,15 @@ Absolutely, Taurus-Bot executives do not accept responsibility.
 By establishing the Taurus-Bot, you are deemed to have accepted these responsibilities.
 ```
 
-[![TAURUS](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)](http://github.com/muhammed-usrbot)
+[![TAURUS](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif)](http://github.com/I-AM-MUHAMMED)
 
 
 ## Developers 
   <div align="center">
     
-  [![MUHAMMED](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TAURUS](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
+  [![MUHAMMED](https://github.com/I-AM-MUHAMMED.png?size=100)](https://github.com/muhammed-usrbot) | [![TOXIDE-SER](https://github.com/TOXIDE-SER-444.png?size=100)](https://github.com/TOXIDE-SER-444) | [![TAURUS](https://github.com/taurus-x-toxide.png?size=100)](https://github.com/taurus-x-toxide) 
 ----|----|----
-[MUHAMMED](https://github.com/muhammed-usrbot) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [TAURUS](https://github.com/taurus-x-toxide)
+[MUHAMMED](https://github.com/I-AM-MUHAMMED) | [TOXIDE-SER](https://github.com/TOXIDE-SER-444) | [TAURUS](https://github.com/taurus-x-toxide)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 

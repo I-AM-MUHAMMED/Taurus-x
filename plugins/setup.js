@@ -6,13 +6,13 @@ const config = require('../config');
 const fs = require("fs")
 const Language = require('../language');
 const Lang = Language.getString('gitlink');
+const ftroli = {key: {participant: "0@s.whatsapp.net", ...(from ? { groupJid: "120363042182512544@g.us" } : {})},message: { "orderMessage": { "itemCount" : '999999', "status": '1', "surface": '1', "message": `` + Config.BOTV2 + ``, "orderTitle": 'Bang', "thumbnail": taurus, "sellerJid": '0@s.whatsapp.net'}}}
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message, match) => {
 
     var respoimage = await axios.get(Config.LIZA, { responseType: 'arraybuffer' })
 
-
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('20210811_082543.jpg'), mimetype: Mimetype.png, caption: `╭───────────────────╮
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted:ftroli, "externalAdReply": { "title": `` + Config.BOTV2 + ``, "body": `ɢʀᴏᴜᴘ ᴀssɪsᴛᴇɴᴛ ʙᴏᴛ`, "previewType": 'PHOTO', "thumbnailUrl": `https://bit.ly/3sC5w0G`, "thumbnail": taurus, mimetype: mime, caption: ╭───────────────────╮, thumbnail: Buffer.alloc(0), contextInfo: {"mentionedJid": mids}})
    ` + Config.BOTV2 + `
 ╰───────────────────╯
 ╭───────────────────╮

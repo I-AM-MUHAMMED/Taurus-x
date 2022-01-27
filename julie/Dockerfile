@@ -1,8 +1,7 @@
-FROM quay.io/lyfe00011/bot:beta
+FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/taurus-efx/Taurus-1.git /root/whatsAsena/ 
-RUN mv /root/bottus/* /root/whatsAsena/
-WORKDIR /root/whatsAsena/
+RUN git clone https://github.com/I-AM-MUHAMMED/Taurus-x /root/WhatsAsenaDuplicated
+WORKDIR /root/WhatsAsenaDuplicated/
 ENV TZ=Asia/Kolkata
 RUN npm install supervisor -g
 RUN yarn install --no-audit

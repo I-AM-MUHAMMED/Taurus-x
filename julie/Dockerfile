@@ -1,6 +1,6 @@
-FROM fusuf/whatsasena:latest
+FROM quay.io/lyfe00011/bot:beta
 
-RUN git clone https://github.com/I-AM-MUHAMMED/Taurus-x /root/WhatsAsena
+RUN git clone https://github.com/I-AM-MUHAMMED/Taurus-x /root/WhatsAsena/ 
 RUN mv /root/bottus/* /root/whatsAsena/
 WORKDIR /root/WhatsAsena/
 ENV TZ=Asia/Kolkata
